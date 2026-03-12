@@ -7,5 +7,3 @@ import pandas as pd
 #==========
 
 print('Olá, mundo!')
-
-print("Fazendo novas alterações para testar o git")
